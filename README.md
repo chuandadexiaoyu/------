@@ -10,3 +10,5 @@ http://zhongfox.github.io/                                                博客
 xingishere.com                                                            博客二
 
 http://zouchao.net/2013/05/16/git-commands/                               git命令集合
+
+http://www.cnblogs.com/Mainz/p/3552717.html                               浏览器中javascript线程相关知识
