@@ -16,3 +16,5 @@ http://www.cnblogs.com/Mainz/p/3552717.html                               浏览
 http://rubyer.me/blog/941/                                                提高rails new时bundle install运行速度
 
 http://stackoverflow.com/questions/15708916/use-rvmrc-or-ruby-version-file-to-set-a-project-gemset-with-rvm  进入项目时使用特定的ruby版本
+
+http://blog.csdn.net/xiajun07061225/article/details/8488210               Vim编辑器-批量注释与反注释
