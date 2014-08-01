@@ -20,3 +20,5 @@ http://stackoverflow.com/questions/15708916/use-rvmrc-or-ruby-version-file-to-se
 http://blog.csdn.net/xiajun07061225/article/details/8488210              |  Vim编辑器-批量注释与反注释
 
 http://www.ithome.com/html/it/34621.htm                                  | Mac系统字体显示为什么比Windows系统更好看
+
+http://www.cnblogs.com/youxin/p/3160026.html                             | github的.md格式文件
