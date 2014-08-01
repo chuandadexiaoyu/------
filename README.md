@@ -12,3 +12,5 @@ xingishere.com                                                            博客
 http://zouchao.net/2013/05/16/git-commands/                               git命令集合
 
 http://www.cnblogs.com/Mainz/p/3552717.html                               浏览器中javascript线程相关知识
+
+http://rubyer.me/blog/941/                                                提高rails new时bundle install运行速度
