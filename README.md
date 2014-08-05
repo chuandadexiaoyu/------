@@ -40,3 +40,5 @@ https://rivsen.rs-work.me/                                               | ä¸€ä¸
 -----------------------------------------------------------------------------------------------------------------------
 http://input.fontbureau.com/                                             | Fonts for Code, from Font Bureau
 -----------------------------------------------------------------------------------------------------------------------
+http://thedataasylum.com/articles/how-rails-nginx-x-accel-redirect-work-together.html | How Rails, Nginx and X-Accel-Redirect Work Together
+------------------------------------------------------------------------------------------------------------------------
