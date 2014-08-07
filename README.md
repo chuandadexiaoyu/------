@@ -42,3 +42,5 @@ http://input.fontbureau.com/                                             | Fonts
 -----------------------------------------------------------------------------------------------------------------------
 http://thedataasylum.com/articles/how-rails-nginx-x-accel-redirect-work-together.html | How Rails, Nginx and X-Accel-Redirect Work Together
 ------------------------------------------------------------------------------------------------------------------------
+http://chneukirchen.org/blog/archive/2007/02/introducing-rack.html       | Rack权威介绍
+------------------------------------------------------------------------------------------------------------------------
